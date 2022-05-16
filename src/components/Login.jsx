@@ -15,6 +15,7 @@ export default function Login() {
   const [logout,setLogout]=useState(true);
 
  // Input from object in absence of database
+ console.log(logout);
   const database = [
     {
       username: "atul",
