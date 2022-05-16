@@ -1,5 +1,5 @@
 import axios from "axios";
-const KEY = "AIzaSyBhkhD_iDa1rMAP-GVXfB76idynmWUD94c";
+const KEY = "";
 
 
 // Fetching Youtube API.
